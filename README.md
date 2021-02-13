@@ -7,3 +7,6 @@
 ## Scores  
 - 2020 
   - Advanced - 130/720 - 3 hour - Mohammad Khan & Alvin Li & Ivan Wei & Jeremy Ku-Benjet
+## Ownership
+- Problems were not made by me.
+- Solutions were made by me and friends.
